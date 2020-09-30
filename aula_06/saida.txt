@@ -1,0 +1,32 @@
+ O volume na unidade D ‚ DATA
+ O N£mero de S‚rie do Volume ‚ 0EE6-7EF9
+
+ Pasta de D:\aulas_uni9_2020.2\4_manha_sistemas_distribuidos\aula_06
+
+24/09/2020  08:55    <DIR>          .
+24/09/2020  08:55    <DIR>          ..
+23/09/2020  09:16                 0 app.js
+23/09/2020  16:02    <DIR>          bot
+23/09/2020  16:02    <DIR>          css
+23/09/2020  10:41                 0 index.php
+24/09/2020  08:55                 0 saida.txt
+               3 arquivo(s)              0 bytes
+
+ Pasta de D:\aulas_uni9_2020.2\4_manha_sistemas_distribuidos\aula_06\bot
+
+23/09/2020  16:02    <DIR>          .
+23/09/2020  16:02    <DIR>          ..
+23/09/2020  10:28               713 Bot.php
+23/09/2020  11:34             1.038 chat.php
+               2 arquivo(s)          1.751 bytes
+
+ Pasta de D:\aulas_uni9_2020.2\4_manha_sistemas_distribuidos\aula_06\css
+
+23/09/2020  16:02    <DIR>          .
+23/09/2020  16:02    <DIR>          ..
+23/09/2020  09:16                 0 style.css
+               1 arquivo(s)              0 bytes
+
+     Total de Arquivos na Lista:
+               6 arquivo(s)          1.751 bytes
+               8 pasta(s)   562.539.917.312 bytes dispon¡veis
