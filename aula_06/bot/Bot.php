@@ -1,6 +1,4 @@
 <?php
-# Classe responsável pela gestão do Bot (Robô)
-
 class Bot
 {
     private $name = "Chatbot";
@@ -12,18 +10,18 @@ class Bot
 
     public function hears($message, callable $call)
     {
-        $call(new Bot());
+        $call(new Bot);
         return $message;
     }
 
     public function reply($response)
     {
-        print($response);
+        echo $response;
     }
 
     public function ask($question, array $questionDictionary)
     {
-        $question = trim($question); # retira os espaços do início e do fim
+        $question = trim($question);
         foreach ($questionDictionary as $questions => $value) {
             if ($question == $questions) {
                 return $value;
